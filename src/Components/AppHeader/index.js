@@ -82,3 +82,9 @@ function AppHeader() {
   );
 }
 export default AppHeader;
+
+
+// //git add .gitignore
+// git add Dashbaord-Tutorial-using-React-and-Ant-Design/
+// git commit -m "Initial commit with untracked files"
+
